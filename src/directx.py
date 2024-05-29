@@ -61,7 +61,7 @@ def playback2():
 frame = customtkinter.CTkFrame(master=root)
 frame.pack(pady=20, padx=60, fill="both", expand=True)
 
-label = customtkinter.CTkLabel(master=frame, text="Izi Cocket Swap")
+label = customtkinter.CTkLabel(master=frame, text="Izi Rocket Swap")
 label.pack(pady=12, padx=10)
 
 button1 = customtkinter.CTkButton(master=frame, text="Start", command=playback2)
